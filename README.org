@@ -15,7 +15,7 @@ navigation of vhdl source code and providing
   - Link and headings management
   - Custom use of =imenu=
 
-Refer to the project [[https://gitlab.com/emacs-lisp/vhdl-tools/-/wikis/Home][wiki]] for details.
+Refer to the project [[https://gitlab.com/emacs-elisp/vhdl-tools/-/wikis/home][wiki]] for details.
 
 * License
 
